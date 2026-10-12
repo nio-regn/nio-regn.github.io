@@ -36,4 +36,8 @@
     <loc>https://nioregn.se/utdrag/skuggpest</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://nioregn.se/utdrag/tvariksroset</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
